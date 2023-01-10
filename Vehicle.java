@@ -6,7 +6,9 @@ public class Vehicle {
 	public int findNetPrice() {
 		return price+(price *taxPercentage/100);
 		
+		
 	}
+	
 	
 
 }

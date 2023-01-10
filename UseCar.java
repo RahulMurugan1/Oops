@@ -7,7 +7,7 @@ public class UseCar {
 		car.model = "Swift" ;
 		car.taxPercentage = 10 ;
 		System.out.println(car.taxAmount() +" " +car.brand +" "+car.model);
-	
+	System.out.println("commit");
 	Vehicle v = new Vehicle ();
 	//v.model = "Audi" ;
 }
